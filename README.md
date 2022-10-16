@@ -107,16 +107,23 @@ except:
 
 - ``Then set-up python environment variable your desktop ``
 
--``Thens install git you desktop``
+- ``Thens install git you desktop``
 
-``Then Open cmd``
-```bash
+##``Then Open cmd``
+
+```python
 pip install arubomber
 ```
-```
+
+```python
 git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git
 ```
-
+```python
+cd ARU-BOMBER
+```
+```python
+python bomber.py
+```
 
 
 
