@@ -28,24 +28,28 @@
 
 
 
-## Requried Pkg and Liberies
+# How To Use?
+<div align='center'><h1>Termux</h1></div>
+
+
 - Update your `Pkg` -
+
 ```
-$ pkg update 
+pkg update 
 ```
 ```
-$ pkg upgrade 
+pkg upgrade 
 ```
 
 
 - Install `Python` -
 
 ```
-$ pkg install python 
+pkg install python 
 ```
 - install `git`
 ```
-$ pkg install git 
+pkg install git 
 ```
 
 - Install `libraries` -
@@ -57,28 +61,31 @@ pip install requests
 ```
 
 
-### Install ``ARU-BOMBER``
+``Install ARU-BOMBER``
 
 - Clone this repository -
 ```
-$ git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git
+git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git
 ```
 
 - Change to cloned directory and run `bomber.sh` -
 ```
-$ cd ARU-BOMBER
-$ bash bomber.sh
+cd ARU-BOMBER
+bash bomber.sh
 ```
-### Single `Command`-
+- Single `Command`-
 ```
-$ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install git && pip install lolcat && pip install requests && git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git && cd ARU-BOMBER && bash bomber.sh
+pkg update -y && pkg upgrade -y && pkg install python -y && pkg install git && pip install lolcat && pip install requests && git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git && cd ARU-BOMBER && bash bomber.sh
 ```
 
-### Screenshots
+``Screenshots``
 <p align="center">
     <img src=".img/screenshot.png">
 </p>
 <br>
+
+
+
 
 ### Find Me on :
 <p align="left">
