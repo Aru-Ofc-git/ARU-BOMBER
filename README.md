@@ -50,7 +50,7 @@ $ pkg install git
 
 - Install `libraries` -
 ```
-pip install lolcat
+pip install arubomber
 ```
 ```
 pip install requests
