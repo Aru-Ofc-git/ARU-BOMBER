@@ -85,6 +85,40 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install git && p
 <br>
 
 
+<div align='center'><h1>Pydroid 3</h1></div>
+
+``Just Copy and Paste This Code``
+
+```python
+import os
+try:
+	from bomber import linux
+except:
+	os.system("pip install arubomber")
+try:
+	linux.main()
+except:
+	print("Error")
+```
+
+<div align='center'><h1>Windows</h1></div>
+
+- ``Frist Install python latest version in your desktop.``
+
+- ``Then set-up python environment variable your desktop ``
+
+-``Thens install git you desktop``
+
+``Then Open cmd``
+```bash
+pip install arubomber
+```
+```
+git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git
+```
+
+
+
 
 
 ### Find Me on :
