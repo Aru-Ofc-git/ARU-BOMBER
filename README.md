@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.0.1-tomato?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.1.1-tomato?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Aru-Ofc-git/ARU-BOMBER?style=for-the-badge">
 </p>
 
@@ -30,6 +30,12 @@
 
 # How To Use?
 <div align='center'><h1>Termux</h1></div>
+
+- `Frist Remove old cloned file from git `
+```
+rm -rf ARU-BOMBER
+```
+
 
 
 - Update your `Pkg` -
@@ -83,6 +89,11 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install git && p
     <img src=".img/screenshot.png">
 </p>
 <br>
+
+#####Termux Tutorial 
+
+
+
 
 
 <div align='center'><h1>Pydroid 3</h1></div>
