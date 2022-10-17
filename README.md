@@ -68,7 +68,7 @@ pip install requests
 git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git
 ```
 
-- Change to cloned directory and run `bomber.sh` -
+- Change to cloned directory and run `bomber.py` -
 ```
 cd ARU-BOMBER
 python bomber.py
