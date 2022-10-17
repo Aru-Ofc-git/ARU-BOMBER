@@ -161,7 +161,7 @@ https://user-images.githubusercontent.com/88024858/196181824-8a10fadd-9453-47ad-
 
 - `Frist Remove old cloned file from git `
 ```
-$rm -rf ARU-BOMBER
+$ rm -rf ARU-BOMBER
 ```
 
 
