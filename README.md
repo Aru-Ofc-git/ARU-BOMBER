@@ -78,7 +78,7 @@ python bomber.py
 pkg update -y && pkg upgrade -y && pkg install python -y && pkg install git && pip install arubomber && pip install requests && git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git && cd ARU-BOMBER && python bomber.py
 ```
 
-``Screenshots``
+``Screenshots Termux``
 <p align="center">
     <img src=".img/screenshot.png">
 </p>
@@ -109,7 +109,7 @@ except:
 
 - ``Thens install git you desktop``
 
-##``Then Open cmd``
+- ``Then Open cmd``
 
 ```python
 pip install arubomber
@@ -124,6 +124,12 @@ cd ARU-BOMBER
 ```python
 python bomber.py
 ```
+``Screenshots Windows``
+<p align="center">
+    <img src=".img/Screenshoot_Win.png">
+</p>
+<br>
+
 
 
 
