@@ -90,7 +90,15 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install git && p
 </p>
 <br>
 
-#####Termux Tutorial 
+<div align='center'><h3>Termux Tutorial</h3></div>
+
+-  ``Watch video in slow speed``
+
+
+
+
+https://user-images.githubusercontent.com/88024858/196180501-c0c2f83a-5a73-4c39-903c-0af5f91be447.mp4
+
 
 
 
@@ -140,6 +148,14 @@ python bomber.py
     <img src=".img/Screenshoot_Win.png">
 </p>
 <br>
+<div align='center'><h3>Termux Windows</h3></div>
+
+-  ``Watch video in slow speed``
+
+
+
+https://user-images.githubusercontent.com/88024858/196181824-8a10fadd-9453-47ad-ae6d-819774f9d0bd.mp4
+
 
 
 
