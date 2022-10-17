@@ -148,7 +148,7 @@ python bomber.py
     <img src=".img/Screenshoot_Win.png">
 </p>
 <br>
-<div align='center'><h3>Termux Windows</h3></div>
+<div align='center'><h3>Windows Tutorial</h3></div>
 
 -  ``Watch video in slow speed``
 
@@ -157,9 +157,58 @@ python bomber.py
 https://user-images.githubusercontent.com/88024858/196181824-8a10fadd-9453-47ad-ae6d-819774f9d0bd.mp4
 
 
+<div align='center'><h1>Linux</h1></div>
+
+- `Frist Remove old cloned file from git `
+```
+$rm -rf ARU-BOMBER
+```
 
 
 
+- Update your `Pkg` -
+
+```
+$ sudo apt update 
+```
+```
+$ sudo apt upgrade 
+```
+
+
+- Install `Python` -
+
+```
+$ sudo apt install python 
+```
+- install `git`
+```
+$ sudo apt install git 
+```
+
+- Install `libraries` -
+```
+$pip install arubomber
+```
+```
+$ pip install requests
+```
+
+
+``Install ARU-BOMBER``
+
+- Clone this repository -
+```
+$ git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git
+```
+
+- Change to cloned directory and run `bomber.py` -
+```
+$ cd ARU-BOMBER
+```
+```
+$ python bomber.py
+```
 
 ### Find Me on :
 <p align="left">
