@@ -71,11 +71,11 @@ git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git
 - Change to cloned directory and run `bomber.sh` -
 ```
 cd ARU-BOMBER
-bash bomber.sh
+python bomber.py
 ```
 - Single `Command`-
 ```
-pkg update -y && pkg upgrade -y && pkg install python -y && pkg install git && pip install lolcat && pip install requests && git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git && cd ARU-BOMBER && bash bomber.sh
+pkg update -y && pkg upgrade -y && pkg install python -y && pkg install git && pip install arubomber && pip install requests && git clone https://github.com/Aru-Ofc-git/ARU-BOMBER.git && cd ARU-BOMBER && python bomber.py
 ```
 
 ``Screenshots``
