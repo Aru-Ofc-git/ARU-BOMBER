@@ -5,16 +5,10 @@ if os.name == "nt":
 		from bomber import windows
 	except:
 		os.system("pip install arubomber")
-	try:
-		windows.main()
-	except:
-		os.system("pip install --upgrade arubomber")
+	windows.main()
 else:
 	try:
-		from bomber import linux
+		from bomber import bomber
 	except:
 		os.system("pip install arubomber")
-	try:
-		linux.main()
-	except:
-		os.system("pip install --upgrade arubomber")
+	bomber.main()
