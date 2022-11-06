@@ -5,10 +5,16 @@ if os.name == "nt":
 		from bomber import windows
 	except:
 		os.system("pip install arubomber")
-	windows.main()
+	try:
+		windows.main()
+	except:
+		pass
 else:
 	try:
 		from bomber import bomber
 	except:
 		os.system("pip install arubomber")
-	bomber.main()
+	try:
+		bomber.main()
+	except:
+		pass
