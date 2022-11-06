@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.1.8-tomato?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.1.9-tomato?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Aru-Ofc-git/ARU-BOMBER?style=for-the-badge">
 </p>
 
