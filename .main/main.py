@@ -7,7 +7,7 @@ try:
 		windows.main()
 	else:
 		bomber.main()
-excet:
+except:
 	import sys
 	print('arubomber not installed')
 	sys.exit()
