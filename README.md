@@ -1,11 +1,14 @@
-<!-- ARU_BOMBER_PRO -->
+<!-- ARU-BOMBER -->
+<meta name="description" content="SMS BOMBING SYSTEM BANGLADESH">
+<meta name="keywords" content="ARU-BOMBER, SMS-BOMBER, pin system, pin, unlimited otp sent, ARU,Circle pin, circle otp">
+ <meta name="author" content="Ariful Islam Arman">
 
 <p align="center">
   <img src=".img/logo.png" alt="ARU BOMBER">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.1.9-tomato?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-2.0.3-tomato?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Aru-Ofc-git/ARU-BOMBER?style=for-the-badge">
 </p>
 
