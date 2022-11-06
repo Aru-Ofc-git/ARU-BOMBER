@@ -8,6 +8,4 @@ try:
 	else:
 		bomber.main()
 except:
-	import sys
-	print('arubomber not installed')
-	sys.exit()
+	pass
