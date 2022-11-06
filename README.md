@@ -210,6 +210,51 @@ $ cd ARU-BOMBER
 $ python bomber.py
 ```
 
+
+
+
+
+
+
+
+
+<div align='center'><h1>Premium</h1></div>
+<p align="center">
+    <img src=".img/premium_ss.png">
+</p>
+
+`ARU-BOMBER premium is e paid tools`
+<br><br>
+`What's in ARU-BOMBER permium??`
+<br><br>
+``1. Limit removed ``
+
+<p align="center">
+    <img src=".img/limit.png">
+</p>
+<br>
+
+
+``2. Time removed``
+<br><br>
+``3. 10+ Unlimited API``
+<br><br>
+``More Comming soon``
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/Aru-Ofc-Git" target="_blank"><img src="https://img.shields.io/badge/Github-It'z--ARU-green?style=for-the-badge&logo=github"></a>
